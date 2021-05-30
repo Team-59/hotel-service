@@ -15,7 +15,7 @@ const SingleService = (props) => {
                     Charge: ${price}
         `)
         }  else {
-            alert('Login First for Booking Hotel');
+            alert('Please, Login first to confirm your booking');
         }
     }
     return (
